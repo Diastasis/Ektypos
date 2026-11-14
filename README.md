@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/brand/ektypos-logo-light.png" alt="Ektypos. Print it. No typos." width="560"></p>
+<p align="center"><img src="WebApp/assets/brand/ektypos-logo-light.png" alt="Ektypos. Print it. No typos." width="560"></p>
 
 # Ektypos
 
