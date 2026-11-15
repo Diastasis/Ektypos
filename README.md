@@ -7,7 +7,7 @@
 Supported and tested on real hardware: the Fichero **D11s** label printer and the Fichero **A4** printers **6181**, **4437** and **5622**. The protocol notes in [docs/PROTOCOL.md](docs/PROTOCOL.md) also cover the other Fichero models (4575, 3561, 5655). The goal is a growing list of Bluetooth thermal printers.
 
 ## How to use it
-- **Online:** open `https://Diastasis.github.io/ektypos/` in **Chrome based browsers** (desktop or Android). Web Bluetooth is not available in Safari or Firefox.
+- **Online:** open `https://Diastasis.github.io/Ektypos/` in **Chrome based browsers** (desktop or Android). Web Bluetooth is not available in Safari or Firefox.
 - **Install:** in Chrome, menu, **Install app**. It then works offline.
 - **Offline copy:** download `index.html` from this repository and open it in Chromium based browser.
 
